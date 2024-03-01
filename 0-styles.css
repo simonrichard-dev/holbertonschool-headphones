@@ -361,7 +361,7 @@
       flex-direction: column;
       overflow: hidden;
       max-height: 0;
-      transition: max-height .3s ease-in-out;
+      transition: max-height ease;
     }
 
     .header .nav-item {
